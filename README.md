@@ -63,11 +63,8 @@ Cet ordinateur est connecté à Internet et est accessible via un nom de domaine
 - SQL : Le langage SQL (Structured Query Language) est un langage informatique utilisé pour exploiter des bases de données. Il permet de façon générale la définition, la manipulation et le contrôle de sécurité de données.
 
 - TCP : TCP (ou Transport  Control  Protocol)  assure  un  service  de  transmission  de  données  fiable avec une détection et une correction d’erreurs de bout en bout.
-Lorsqu'une machine A envoie des données vers une machine B, la machine B est prévenue de l'arrivée des données, et témoigne de la bonne réception de ces données par un accusé de réception. 
-Ici, intervient le contrôle CRC des données et si les données reçues sont corrompues, le protocole TCP permet aux destinataires de demander à l'émetteur de renvoyer les données corrompues. 
 
-- UDP : L'UDP (ou User  Datagram  Protocol)  offre  un  service  de  transmission  de  datagrammes sans connection. La transmission des données se fait sans prévenir le destinataire, et celui-ci reçoit les données sans effectuer
-d'accusé de réception vers l'émetteur. Ceci est dû au fait que l'encapsulation des données envoyées par le protocole UDP ne permet pas de transmettre les informations concernant l'émetteur.
+- UDP : L'UDP (ou User  Datagram  Protocol)  offre  un  service  de  transmission  de  datagrammes sans connection. 
 
 ### Gestion de projet et ses outils
 
