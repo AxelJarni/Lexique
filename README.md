@@ -1,11 +1,13 @@
 # Lexique du vocabulaire du web.
 
-Un court texte pour expliquer contexte, pourquoi, but.
+Ce lexique est un exercice demandé dans le but de valider les acquis de la semaine 1 de la formation DWWM AFPA.
+
+Cela permettra également d'avoir un lexique sous la main pouvant être utile dans le cas d'un oubli d'un terme dans le futur, 
+que ce soit par ma personne ou un autre utilisateur GitHub.
 
 ## Lexique
 
-Liste : 
-(mot mis en gras) : définition
+**Liste** :
 
 ### Le Front-End et ses langages et outils
 
