@@ -1,4 +1,4 @@
-# Lexique du vocabulaire du web.
+# Lexique du vocabulaire du web
 
 Ce lexique est un exercice demandé dans le but de valider les acquis de la semaine 1 de la formation DWWM AFPA.
 
@@ -9,7 +9,7 @@ que ce soit par ma personne ou un autre utilisateur GitHub.
 
 **Liste** :
 
-### Le Front-End et ses langages et outils
+### Le Front-End : Ses langages et outils
 
 - Client : Le client est ce qui envoie des demandes à un serveur. Cela peut être aussi bien l'ordinateur depuis lequel les demandes sont envoyées 
 que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opère les demandes. Dans le cadre d'une navigation internet, 
@@ -36,7 +36,7 @@ jQuery renferme de nombreuses fonctionnalités prêtes à être utilisées comme
 C'est donc un seul et même site qui peut être consulté sur ordinateur, sur smartphone ou sur tablette. 
 Il est aujourd'hui important d'avoir un site web qui est responsive pour le confort des utilisateurs et son référencement.
 
-### Le Back-End et ses langages et outils
+### Le Back-End : Ses langages et outils
 
 - Back-End
 
@@ -52,7 +52,7 @@ Il est aujourd'hui important d'avoir un site web qui est responsive pour le conf
 
 - UDP
 
-### Outils de gestion de projet
+### Gestion de projet et ses outils
 
 - Git
 
