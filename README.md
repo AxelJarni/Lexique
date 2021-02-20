@@ -9,7 +9,7 @@ que ce soit par ma personne ou un autre utilisateur GitHub.
 
 ----------
 
-### Le Front-End : Ses langages et outils
+### Front-End : Ses langages et outils
 
 - **Client** : Le client est ce qui envoie des demandes à un serveur. Cela peut être aussi bien l'ordinateur depuis lequel les demandes sont envoyées 
 que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opère les demandes. Dans le cadre d'une navigation internet, 
@@ -72,7 +72,7 @@ Cet ordinateur est connecté à Internet et est accessible via un nom de domaine
 
 ----------
 
-### Gestion de projet et ses outils
+### Projet : Sa gestion et ses outils
 
 - **Git** : C'est un logiciel de gestion de versions décentralisé. Il utilise un système de connexion pair à pair et permet de stocker le code informatique non seulement sur l'ordinateur de chaque contributeur du projet, mais il peut l'être également sur un serveur dédié. 
 
