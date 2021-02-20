@@ -25,6 +25,8 @@ Les visiteurs peuvent par conséquent visualiser cette partie là sans aucune re
 - HTML : L'HTML (ou l'Hypertext Markup Language) est un langage de description de pages Web. Il se base sur l'utilisation de balises pour présenter le document. 
 Ainsi les clients (navigateurs) peuvent le déchiffrer correctement. Le contenu qui est visible sur une page Web est, en grande partie, décrit par le langage HTML
 
+- Intégration : L’intégration est une phase qui permet de réaliser la maquette définitive d’un site ou d’une application web. En fonction des besoins du client, mais aussi de l’identité qu’il souhaite afficher.
+
 - JavaScript : Javascript est un langage de script coté client. Il s'agit d'un langage de Programmation Orienté Prototype, qui utilise des objets prédéfinis.
 Il permet d'apporter plusieurs améliorations au contenu de la page, principalement l'interactivité. 
 La page Web réagit aux actions du visiteur et aux événements qui peuvent survenir lors de la navigation.
@@ -68,11 +70,11 @@ Cet ordinateur est connecté à Internet et est accessible via un nom de domaine
 
 ### Gestion de projet et ses outils
 
-- Git
+- Git : C'est un logiciel de gestion de versions décentralisé. Il utilise un système de connexion pair à pair et permet de stocker le code informatique non seulement sur l'ordinateur de chaque contributeur du projet, mais il peut l'être également sur un serveur dédié. 
 
-- Github
+- Github : C'est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. 
+Le site assure également un contrôle d'accès et des fonctionnalités destinées à la collaboration comme le suivi des bugs, les demandes de fonctionnalités, la gestion de tâches et un wiki pour chaque projet.
 
-- Intégration
+- Ligne de commande : Désigne le fait d’interagir avec un système informatique en entrant des lignes d’instructions textuelles dans un terminal, et non à l’aide d’une interface graphique. Les commandes tapées dans le terminal sont interprétées par un Shell.
 
-- Ligne de commande
-
+- Versionner : Garder la trace d’un ou plusieurs fichiers, documents, au moyen d’un système de gestion de versions. 
