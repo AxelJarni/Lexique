@@ -38,19 +38,36 @@ Il est aujourd'hui important d'avoir un site web qui est responsive pour le conf
 
 ### Le Back-End : Ses langages et outils
 
-- Back-End
+- Back-End : C'est la partie d'une application Web qui n'est pas exposée (ou peu) aux visiteurs.
+Elle permet de gérer le contenu qui sera exposé dans le site Web (voir Front-End).
+Son accès est limité aux administrateurs qui sont autorisés à agir sur le contenu et la présentation de la partie publique du site Web.
+Cette partie est réalisée par des développeurs Back-End qui doivent maitriser un ensemble de langages et technologies comme par exemple PHP, SQL, Python, NodeJS,...
 
-- Base de données
+- Base de données : Une base de données est une collection d’informations organisées afin d’être facilement consultables, gérables et mises à jour.
+Au sein d’une database, les données sont organisées en lignes, colonnes et tableaux. 
+Elles sont indexées afin de pouvoir facilement trouver les informations recherchées à l’aide d’un logiciel informatique. 
 
-- PHP
+- PHP : Le PHP (ou Hypertext Preprocessor) désigne un langage informatique, ou un langage de script, utilisé principalement pour la conception de sites web dynamiques. 
+Il s'agit d'un langage de programmation souvent associé aux serveur de base de données MySQL et Apache. Son exécution se fait donc côté serveur où il renvoit ensuite une page web (contenant du HTML, CSS,...) au client.
 
-- Serveur
+- Serveur : Peut faire référence à des composants logiciels (software) ou à des composants matériels (hardware) 
+ou à des composants logiciels et matériels qui fonctionnent ensemble.
 
-- SQL
+	- Au niveau des composants logiciels, un serveur web contient différents fragments qui contrôlent la façon dont les utilisateurs 
+peuvent accéder aux fichiers hébergés. On trouvera a minima un serveur HTTP. Un serveur HTTP est un logiciel qui comprend 
+les URL et le protocole HTTP (le protocole utilisé par le navigateur pour afficher les pages web).
 
-- TCP
+	- Au niveau des composants matériels, un serveur web est un ordinateur qui stocke les fichiers qui composent un site web et qui les envoie à l'appareil de l'utilisateur qui visite le site. 
+Cet ordinateur est connecté à Internet et est accessible via un nom de domaine.
 
-- UDP
+- SQL : Le langage SQL (Structured Query Language) est un langage informatique utilisé pour exploiter des bases de données. Il permet de façon générale la définition, la manipulation et le contrôle de sécurité de données.
+
+- TCP : TCP (ou Transport  Control  Protocol)  assure  un  service  de  transmission  de  données  fiable avec une détection et une correction d’erreurs de bout en bout.
+Lorsqu'une machine A envoie des données vers une machine B, la machine B est prévenue de l'arrivée des données, et témoigne de la bonne réception de ces données par un accusé de réception. 
+Ici, intervient le contrôle CRC des données et si les données reçues sont corrompues, le protocole TCP permet aux destinataires de demander à l'émetteur de renvoyer les données corrompues. 
+
+- UDP : L'UDP (ou User  Datagram  Protocol)  offre  un  service  de  transmission  de  datagrammes sans connection. La transmission des données se fait sans prévenir le destinataire, et celui-ci reçoit les données sans effectuer
+d'accusé de réception vers l'émetteur. Ceci est dû au fait que l'encapsulation des données envoyées par le protocole UDP ne permet pas de transmettre les informations concernant l'émetteur.
 
 ### Gestion de projet et ses outils
 
