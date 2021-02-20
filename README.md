@@ -4,18 +4,39 @@ Un court texte pour expliquer contexte, pourquoi, but.
 
 ## Lexique
 
-List : (mot mis en gras) : définition
+Liste : 
+(mot mis en gras) : définition
 
-Git
-Github
-Ligne de commande
-HTML
-CSS
-JavaScript
-PHP
-Intégration
-Front-end
-Back-end
-Client
-Serveur
-Base de données
+### Le Front-End et ses langages et outils
+
+- Client
+
+- CSS
+
+- Front-end
+
+- HTML
+
+- JavaScript
+
+### Le Back-End et ses langages et outils
+
+- Back-End
+
+- Base de données
+
+- PHP
+
+- Serveur
+
+- SQL
+
+### Outils de gestion de projet
+
+- Git
+
+- Github
+
+- Ligne de commande
+
+- Intégration
